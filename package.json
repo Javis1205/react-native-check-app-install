@@ -1,5 +1,5 @@
 {
-  "name": "react-native-check-app-install",
+  "name": "react-native-check-app-javis",
   "version": "0.0.2",
   "description": "React Native plugin for checking if apps/packages are installed on the device or not.",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "ios",
     "android"
   ],
-  "author": "RedPandaTronics LTD",
+  "author": "Javis Nguyen",
   "license": "MIT",
   "nativePackage": true,
   "rnpm": {
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redpandatronicsuk/react-native-check-app-install.git"
+    "url": "https://github.com/Javis1205/react-native-check-app-install.git"
   },
   "bugs": {
-    "url": "https://github.com/redpandatronicsuk/react-native-check-app-install/issues"
+    "url": "https://github.com/Javis1205/react-native-check-app-install/issues"
   },
-  "homepage": "https://github.com/redpandatronicsuk/react-native-check-app-install#readme"
+  "homepage": "https://github.com/Javis1205/react-native-check-app-install#readme"
 }
