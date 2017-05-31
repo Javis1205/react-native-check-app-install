@@ -1,5 +1,5 @@
 import { Linking, Platform } from 'react-native';
-import { APP_LIST } from '../src/config/app-list';
+import { APP_LIST } from '../../src/config/app-list';
 import CheckPackageInstallation from './android';
 
 class AppInstalledChecker {
